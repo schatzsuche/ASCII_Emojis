@@ -8,13 +8,13 @@ Just like `:)` becomes `(●'◡'●)` – ✨ it's emoji magic for your keyboar
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### ✅ Step 1
+###  Step 1
 
 Download and install [AutoHotKey](https://www.autohotkey.com/)
 
-### 🧠 Step 2
+###  Step 2
 
 Run the script from the [latest release](https://github.com/schatzsuche/ASCII_Emojis/releases/tag/ASCII_Emojis)
 
