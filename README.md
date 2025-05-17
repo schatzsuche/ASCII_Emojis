@@ -20,7 +20,7 @@ Run the script from the [latest release](https://github.com/schatzsuche/ASCII_Em
 
 ---
 
-## 💡 Example Replacements
+## Replacements
 
 | Typed   | Turns Into |
 | ------- | ---------- |
@@ -30,10 +30,5 @@ Run the script from the [latest release](https://github.com/schatzsuche/ASCII_Em
 | `:)`    | (●'◡'●)    |
 | `\._./` | ¯\\*(ツ)*/¯ |
 | `;)`    | (#\_<-)    |
-
----
-
-Feel free to suggest more shortcuts or customize the script!
-Made with 💻 + 🎨 by [@schatzsuche](https://github.com/schatzsuche)
 
 ---
