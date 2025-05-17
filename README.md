@@ -43,5 +43,3 @@ Download & Run the script from the [latest release](https://github.com/schatzsuc
 | `judgy` | ಠ\_ಠ         |
 
 ---
-
-Let me know if you'd like a downloadable Markdown file or any design tweaks (like grouping emotional types).
