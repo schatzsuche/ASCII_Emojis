@@ -16,7 +16,7 @@ Download and install [AutoHotKey](https://www.autohotkey.com/)
 
 ###  Step 2
 
-Run the script from the [latest release](https://github.com/schatzsuche/ASCII_Emojis/releases/tag/ASCII_Emojis)
+Download & Run the script from the [latest release](https://github.com/schatzsuche/ASCII_Emojis/releases/tag/ASCII_Emojis)
 
 ---
 
